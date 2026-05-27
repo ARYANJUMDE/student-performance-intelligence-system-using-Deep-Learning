@@ -1,4 +1,4 @@
-# 🎓 Student Performance Intelligence System
+# 🎓 Student Performance Intelligence System Using Deep Learning (Artificial Neural Network ANN)
 
 An end-to-end Machine Learning and Deep Learning project that predicts student academic performance using Artificial Neural Networks (ANN) and deploys the model through an interactive Streamlit web application.
 
@@ -99,13 +99,13 @@ student-performance-intelligence-system-Deep-Learning/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/student-performance-intelligence-system.git
+git clone https://github.com/ARYANJUMDE/student-performance-intelligence-system-using-Deep-Learning
 ```
 
 Move into the project directory:
 
 ```bash
-cd student-performance-intelligence-system-Deep-Learning
+cd student-performance-intelligence-system-using-Deep-Learning
 ```
 
 Install dependencies:
